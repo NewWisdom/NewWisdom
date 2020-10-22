@@ -32,5 +32,5 @@ I want to be a person who gives you new wisdom. ✨
   
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=150&section=footer)
+<!--![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=150&section=footer)-->
 
